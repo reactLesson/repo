@@ -3,8 +3,8 @@
     { "id": 1, "title": "Milk", "price":"5" },
     { "id": 2, "name": "Suop", "price":"6" },
     { "id": 3, "name": "Cola", "price":"8" },
-    { "id": 3, "name": "Bread", "price":"4" },
-    { "id": 3, "name": "Cottege", "price":"4" },
-    { "id": 3, "name": "Chocklate", "price":"6.5" }
+    { "id": 4, "name": "Bread", "price":"4" },
+    { "id": 5, "name": "Cottege", "price":"4" },
+    { "id": 6, "name": "Chocklate", "price":"6.5" }
   ]
 }
