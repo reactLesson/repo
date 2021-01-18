@@ -1,10 +1,10 @@
 {
   "products": [
-    { "id": 1, "name": "Milk", "price":"5" },
-    { "id": 2, "name": "Suop", "price":"6" },
-    { "id": 3, "name": "Cola", "price":"8" },
-    { "id": 4, "name": "Bread", "price":"4" },
-    { "id": 5, "name": "Cottege", "price":"4" },
-    { "id": 6, "name": "Chocklate", "price":"6.5" }
+    { "id": 1, "name": "Milk", "price":"5", "amount":"0" },
+    { "id": 2, "name": "Suop", "price":"6", "amount":"0"  },
+    { "id": 3, "name": "Cola", "price":"8", "amount":"0"  },
+    { "id": 4, "name": "Bread", "price":"4", "amount":"0"  },
+    { "id": 5, "name": "Cottege", "price":"4", "amount":"0"  },
+    { "id": 6, "name": "Chocklate", "price":"6.5", "amount":"0" }
   ]
 }
